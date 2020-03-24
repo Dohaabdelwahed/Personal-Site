@@ -1,2 +1,3 @@
 # Personal-Site
-![cloud](cloud.png)
+![cloud](images/cloud.png)
+![mountain-img](images/mountain.png)
